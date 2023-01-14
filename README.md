@@ -35,10 +35,3 @@ Here are some ideas to get you started:
 
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=caoyue&theme=minimal) -->
-
-## 📚 GitHub Stats: 
-<div>
-  <a href="[https://github.com/rafaballerini](https://github.com/danzinho007)">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danzinho007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzinho007&layout=compact&langs_count=16&theme=dracula"/>
-</div>
