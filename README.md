@@ -1,11 +1,20 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Programming Logic, JavaScript, Python 3, MySQL and HTML
+- 🌱 I’m currently learning Programming Logic, JavaScript, Python 3, MySQL, HTML, English e Japanese
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about : I decided to study in the year 2023 programming
 - 📫 How to reach me: Linkedin
+
+### こんにちは👋
+
+- 🔭 私は現在取り組んでいます ...
+- 🌱 現在、プログラミング ロジック、JavaScript、Python 3、MySQL、および HTML, 英語、日本語を学んでいます
+- 👯 コラボしようと思って...
+- 🤔 私は助けを求めています ...
+- 💬 質問: 2023 年のプログラミングで勉強することにしました
+- 📫 私に連絡する方法: Linkedin
 
 <!--
 **danzinho007/danzinho007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
