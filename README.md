@@ -15,15 +15,15 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about : I decided to study in the year 2023 programming
 - 📫 How to reach me: Linkedin
+- 
 
-### こんにちは👋
-
-- 🔭 私は現在取り組んでいます ...
-- 🌱 現在、プログラミング ロジック、JavaScript、Python 3、MySQL、および HTML, 英語、日本語を学んでいます
-- 👯 コラボしようと思って...
-- 🤔 私は助けを求めています ...
-- 💬 質問: 2023 年のプログラミングで勉強することにしました
-- 📫 私に連絡する方法: Linkedin
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=danzinho007&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=danzinho007&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=danzinho007&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <!--
 **danzinho007/danzinho007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
