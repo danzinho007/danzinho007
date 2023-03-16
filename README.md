@@ -1,18 +1,4 @@
 ### Olá 👋
-Exercícios feitos até agora :
-Excluíndo HTML CSS pois tenho meu site
-HTML CSS  = 40
-
-- Algoritmo = 115
-- JavaScript = 30 > 42 > 50
-- Python = 20 > 32 > 39
-- MySQL = 18
-- Lua = 10
-- Java = 6
-- Scratch = 4
-- C-Sharp / C# = 2
-- PHP = 2
-- Assembly = 1
 
 - 🔭 Atualmente estou trabalhando em https://danzinho007.github.io/
 - 🌱 Atualmente estou aprendendo Lógica de Programação, JavaScript, Python 3, MySQL, HTML, Inglês e Japonês
