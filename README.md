@@ -43,3 +43,10 @@ Here are some ideas to get you started:
 
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=caoyue&theme=minimal) -->
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzinho007&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
